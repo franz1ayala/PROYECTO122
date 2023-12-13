@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PROYECTO122/static/css/main.e6e0b092.css",
-    "main.js": "/PROYECTO122/static/js/main.527d7ee9.js",
+    "main.js": "/PROYECTO122/static/js/main.b6a62f7d.js",
     "static/js/787.11d74102.chunk.js": "/PROYECTO122/static/js/787.11d74102.chunk.js",
     "static/media/Pasta.jpg": "/PROYECTO122/static/media/Pasta.96695ce4374779d67f8d.jpg",
     "static/media/card3.jpg": "/PROYECTO122/static/media/card3.6966f1029d2988a4533e.jpg",
@@ -40,16 +40,17 @@
     "static/media/Arepa.jpg": "/PROYECTO122/static/media/Arepa.daef097f7873215906f6.jpg",
     "static/media/Cachapa.jpg": "/PROYECTO122/static/media/Cachapa.79569824cc6574559193.jpg",
     "static/media/TORREZNOS.jpg": "/PROYECTO122/static/media/TORREZNOS.21fd59cd76991e7c962b.jpg",
+    "static/media/error404.png": "/PROYECTO122/static/media/error404.fab8ad695e2026cc86b8.png",
     "static/media/Hallacas.jpg": "/PROYECTO122/static/media/Hallacas.99d0c45f1b02a357770b.jpg",
     "static/media/Tequeños venezolanos de queso.jpg": "/PROYECTO122/static/media/Tequeños venezolanos de queso.b8365e1d8a5bff50d271.jpg",
     "static/media/ARROZ CALDOSO CON POLLO.jpg": "/PROYECTO122/static/media/ARROZ CALDOSO CON POLLO.94efc0539e5a0f51931a.jpg",
     "index.html": "/PROYECTO122/index.html",
     "main.e6e0b092.css.map": "/PROYECTO122/static/css/main.e6e0b092.css.map",
-    "main.527d7ee9.js.map": "/PROYECTO122/static/js/main.527d7ee9.js.map",
+    "main.b6a62f7d.js.map": "/PROYECTO122/static/js/main.b6a62f7d.js.map",
     "787.11d74102.chunk.js.map": "/PROYECTO122/static/js/787.11d74102.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6e0b092.css",
-    "static/js/main.527d7ee9.js"
+    "static/js/main.b6a62f7d.js"
   ]
 }
